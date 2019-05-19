@@ -59,3 +59,4 @@ sh 'scp  /var/lib/jenkins/workspace/DownloadingArtifact/BookStore-SNAPSHOT-0.0.$
 
 }
 */
+/*echo "hello"*/
